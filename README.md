@@ -1,4 +1,4 @@
-🎬 Movies API
+#🎬 Movies API
 A professional, clean, and robust ASP.NET Core Web API for managing movies and genres. This project follows industry best practices, focusing on performance, maintainability, and clean architecture.
 
 🚀 Key Features
