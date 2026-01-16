@@ -1,0 +1,6 @@
+@MoveisApi_HostAddress = http://localhost:5052
+
+GET {{MoveisApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
